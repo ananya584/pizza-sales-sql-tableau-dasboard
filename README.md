@@ -49,6 +49,10 @@ The Tableau dashboard includes:
 
 https://public.tableau.com/app/profile/ananya.gupta5328/viz/pizzaDashboard/Dashboard1
 
+### 📊 Tableau Dashboard Preview
+
+![Pizza Sales Dashboard](dashboard/Dashboard.png)
+
 ## 👤 Author
 
 Ananya Gupta
